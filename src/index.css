@@ -152,3 +152,14 @@ img.large {
 .error {
   color: #a02020;
 }
+
+
+.alert{
+  padding: 1rem;
+  border: 0.1rem solid transparent;
+  border: 0.5rem;
+}
+.alert-danger{
+  color: #a02020;
+  background-color: #ffe0e0e0;
+}
